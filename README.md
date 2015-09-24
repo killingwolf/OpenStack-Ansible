@@ -1,2 +1,2 @@
 # OpenStack-Ansible
-Install RDO with Ansilbe !
+Install RDO with Ansible !
